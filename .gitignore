@@ -1,0 +1,38 @@
+# Git
+.git
+
+# Environment dan rahasia
+.env
+.env.*
+!.env.example
+
+# Konfigurasi lokal Airflow
+airflow_settings.yaml
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+webserver_config.py
+
+# Lingkungan Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Astronomer Astro
+astro
+.astro/
+!.astro/standalone/
+.astro/standalone/*
+!.astro/worktrees/
+.astro/worktrees/*
+.astro/*.local.yml
+.astro/*.local.yaml
+
+# Metadata Astro/dbt
+**/.astro/dbt_metadata.json
+**/.astro/manifest.slim.json
+
+# File sistem
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+country_id,country_code,country_name,region,income_level,capital_city,capital_lat,capital_lon
+1,ARG,Argentina,Latin America & Caribbean,Upper middle income,Buenos Aires,-34.6118,-58.4173
+2,AUS,Australia,East Asia & Pacific,High income,Canberra,-35.282,149.129
+3,BGD,Bangladesh,South Asia,Lower middle income,Dhaka,23.7055,90.4113
+4,BRA,Brazil,Latin America & Caribbean,Upper middle income,Brasilia,-15.7801,-47.9292
+5,BRN,Brunei Darussalam,East Asia & Pacific,High income,Bandar Seri Begawan,4.94199,114.946
+6,CAN,Canada,North America,High income,Ottawa,45.4215,-75.6919
+7,CHN,China,East Asia & Pacific,Upper middle income,Beijing,40.0495,116.286
+8,COL,Colombia,Latin America & Caribbean,Upper middle income,Bogota,4.60987,-74.082
+9,DEU,Germany,Europe & Central Asia,High income,Berlin,52.5235,13.4115
+10,EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Cairo,30.0982,31.2461
+11,ESP,Spain,Europe & Central Asia,High income,Madrid,40.4167,-3.70327
+12,ETH,Ethiopia,Sub-Saharan Africa,Low income,Addis Ababa,9.02274,38.7468
+13,FRA,France,Europe & Central Asia,High income,Paris,48.8566,2.35097
+14,GBR,United Kingdom,Europe & Central Asia,High income,London,51.5002,-0.126236
+15,GHA,Ghana,Sub-Saharan Africa,Lower middle income,Accra,5.57045,-0.20795
+16,IDN,Indonesia,East Asia & Pacific,Upper middle income,Jakarta,-6.19752,106.83
+17,IND,India,South Asia,Lower middle income,New Delhi,28.6353,77.225
+18,IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Tehran,35.6878,51.4447
+19,ITA,Italy,Europe & Central Asia,High income,Rome,41.8955,12.4823
+20,JPN,Japan,East Asia & Pacific,High income,Tokyo,35.67,139.77
+21,KEN,Kenya,Sub-Saharan Africa,Lower middle income,Nairobi,-1.27975,36.8126
+22,KHM,Cambodia,East Asia & Pacific,Lower middle income,Phnom Penh,11.5556,104.874
+23,KOR,"Korea, Rep.",East Asia & Pacific,High income,Seoul,37.5323,126.957
+24,LAO,Lao PDR,East Asia & Pacific,Lower middle income,Vientiane,18.5826,102.177
+25,MEX,Mexico,Latin America & Caribbean,Upper middle income,Mexico City,19.427,-99.1276
+26,MMR,Myanmar,East Asia & Pacific,Lower middle income,Naypyidaw,21.914,95.9562
+27,MYS,Malaysia,East Asia & Pacific,Upper middle income,Kuala Lumpur,3.12433,101.684
+28,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,Abuja,9.05804,7.48906
+29,NLD,Netherlands,Europe & Central Asia,High income,Amsterdam,52.3738,4.89095
+30,NZL,New Zealand,East Asia & Pacific,High income,Wellington,-41.2865,174.776
+31,PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Islamabad,30.5167,72.8
+32,PER,Peru,Latin America & Caribbean,Upper middle income,Lima,-12.0931,-77.0465
+33,PHL,Philippines,East Asia & Pacific,Upper middle income,Manila,14.5515,121.035
+34,POL,Poland,Europe & Central Asia,High income,Warsaw,52.26,21.02
+35,RUS,Russian Federation,Europe & Central Asia,High income,Moscow,55.7558,37.6176
+36,SGP,Singapore,East Asia & Pacific,High income,Singapore,1.28941,103.85
+37,THA,Thailand,East Asia & Pacific,Upper middle income,Bangkok,13.7308,100.521
+38,TUR,Turkiye,Europe & Central Asia,Upper middle income,Ankara,39.7153,32.3606
+39,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,Dodoma,-6.17486,35.7382
+40,USA,United States,North America,High income,Washington D.C.,38.8895,-77.032
+41,VNM,Viet Nam,East Asia & Pacific,Upper middle income,Hanoi,21.0069,105.825
+42,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,Pretoria,-25.746,28.1871

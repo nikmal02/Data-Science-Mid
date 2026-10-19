@@ -1,0 +1,4 @@
+variabel_1,variabel_2,koefisien_korelasi,interpretasi
+kecepatan_angin_kmh,tinggi_gelombang_m,0.228,Angin kencang mendorong terbentuknya gelombang lebih tinggi
+kecepatan_angin_kmh,kecepatan_arus_kmh,0.385,Angin permukaan turut menggerakkan arus laut (wind-driven current)
+tinggi_gelombang_m,kecepatan_arus_kmh,0.283,"Gelombang & arus sama-sama digerakkan angin, sehingga cenderung berpola serupa"
