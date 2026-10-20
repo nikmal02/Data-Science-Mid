@@ -1,0 +1,9 @@
+tabel,baris,total_null,duplikat_baris,duplikat_kunci,nilai_tidak_valid,fase
+dim_country,42,0,0,0,0,sebelum
+fact_agriculture,1050,35,0,0,0,sebelum
+fact_economic,1050,0,0,0,0,sebelum
+fact_climate,1050,0,0,0,0,sebelum
+dim_country,42,0,0,0,0,sesudah
+fact_agriculture,1050,35,0,0,0,sesudah
+fact_economic,1050,0,0,0,0,sesudah
+fact_climate,1050,0,0,0,0,sesudah
